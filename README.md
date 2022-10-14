@@ -18,6 +18,8 @@
   <img align="center" alt="brabra-Nest" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg">
   <img align="center" alt="brabra-adonis" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg">
   <img align="right" alt="brabra-pic" height="180" style="border-radius:50px;" src="https://media4.giphy.com/media/hQuNhHxSWYhxp9KmyS/giphy.gif?cid=ecf05e47ru3xi8mjlsld28vmxifr5m6ni4w7eb4i0mlnuqvi&rid=giphy.gif&ct=g">
+  
+  ![Snake animation](https://github.com/brabrahen/brabrahen/blob/output/github-contribution-grid-snake.svg) 
 </div>
   
   ##
@@ -27,6 +29,6 @@
   <a href = "mailto:cbrayanhgdev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/brayan-henrique-586029180/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
- ![Snake animation](https://github.com/brabrahen/brabrahen/blob/output/github-contribution-grid-snake.svg) 
+ 
  
 </div>
