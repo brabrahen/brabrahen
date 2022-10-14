@@ -1,4 +1,4 @@
-### Opa!! Me chamo Brayan e sou estudante de Programação na BlueEdTech 👋
+### Opa!! Me chamo Brayan e sou estudante de Programação 👋
 
 - 😄 Pronomes: ele/dele
 - ⚡ Fun fact: Amo frango frito gelado com ketchup
