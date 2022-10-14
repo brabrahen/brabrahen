@@ -19,7 +19,7 @@
   <img align="center" alt="brabra-adonis" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg">
   <img align="right" alt="brabra-pic" height="180" style="border-radius:50px;" src="https://media4.giphy.com/media/hQuNhHxSWYhxp9KmyS/giphy.gif?cid=ecf05e47ru3xi8mjlsld28vmxifr5m6ni4w7eb4i0mlnuqvi&rid=giphy.gif&ct=g">
   
-  ![Snake animation](https://github.com/brabrahen/brabrahen/blob/output/github-contribution-grid-snake.svg) 
+ 
 </div>
   
   ##
