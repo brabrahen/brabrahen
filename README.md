@@ -1,8 +1,8 @@
-### Opa!! Me chamo Brayan e sou estudante de Programação 👋
+### Opa!! Me chamo Brayan, sou estudante de Programação e estou em busca de uma oportunidade! 👋
 
-- 🗣️ Nada supera uma boa conversa.
+- 🗣️ Dotado de piadas ruins e humor duvidoso.
 - ⚡ Gosto muito de esportes, mas em especial Basquete🏀 e Boxe🥊
-- 🎧 Vivo a base de música
+- 🎧 Ouço musica praticamente o dia todo
 
 <div align="center">
   <a href="https://github.com/brabrahen">
