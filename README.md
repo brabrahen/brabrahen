@@ -1,7 +1,7 @@
 ### Opa!! Me chamo Brayan e sou estudante de Programação 👋
 
-- 😄 Pronomes: ele/dele
-- ⚡ Fun fact: Amo frango frito gelado com ketchup
+- 🗣️ Nada supera uma boa conversa.
+- ⚡ Gosto muito de esportes, mas em especial Basquete🏀 e Boxe🥊
 - 🎧 Vivo a base de música
 
 <div align="center">
